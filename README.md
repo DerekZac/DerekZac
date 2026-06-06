@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey, I'm Derek 👋
+CS student at Farmingdale State College graduating Summer 2026, with a minor in Business Management. I build full-stack applications and enjoy solving real problems with code.
+Bilingual in English and Spanish. Dean's List recipient.
 
-<!--
-**DerekZac/DerekZac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Languages: Java, SQL, PHP, JavaScript, HTML/CSS
+Frameworks & Tools: JavaFX, Spring Boot, PostgreSQL, SQL Server, Firebase, JDBC, Apache PDFBox
+Other: Git, Maven, FXML, REST APIs, Agile/Scrum
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projects
+Steam Builder
+A JavaFX desktop app that helps users find and design a PC build tailored to their gaming needs using Steam game data. Features include hardware compatibility checking, AI-powered build analysis, Firebase database integration, and a questionnaire mode that recommends builds based on user preferences.
+My contributions: Built the Questionnaire Mode end-to-end, fixed Firebase/Firestore integration issues, and implemented stub/mock classes for teammate dependencies.
